@@ -20,5 +20,10 @@
         <option value="FIRE" id="ty">Categoria 2</option>
        </select>
     </div>
+    <div id="tasks">
+
+    </div>
+    <script src="appC.js"></script>
 </body>
 </html>
+
